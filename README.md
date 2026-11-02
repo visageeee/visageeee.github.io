@@ -2,7 +2,7 @@
 
 Portfolio: https://visageeee.github.io/
 
-One row per app, with short descriptions, project links, estimated scope, and small expandable screenshots. Includes Viditron, Sprintathon, Forge Ahead, Apistat, Xfce Animated Wallpaper, Docklike Taskbar, Screen Temperature, and PulseAudio Custom.
+One row per app, with short descriptions, project links, estimated scope, and small expandable screenshots. Includes Viditron, Sprintathon, Forge Ahead, Apistat, Xfce Animated Wallpaper, Docklike Taskbar, Screen Temperature, PulseAudio Custom, Break the Mold-online, and Kinetic Scroll.
 
 `index.html` is self-contained with embedded CSS, JavaScript and optimised WebP images. No build system, external fonts, analytics or dependencies. Push updates to `main` to publish through GitHub Pages.
 
@@ -15,6 +15,8 @@ Screenshot sources, all under github.com/visageeee:
 - xfce4-temperature-plugin: main/screenshot.png.
 - xfce4-pulseaudio-custom: custom-pulseaudio/screenshot.png.
 
-Forge Ahead, Apistat and Docklike Taskbar currently have labelled placeholders. To add an image, replace the placeholder button content with an img element; the screenshot viewer reads its source and alt text.
+Forge Ahead, Apistat, Docklike Taskbar and Break the Mold-online currently have labelled placeholders. To add an image, replace the placeholder button content with an img element; the screenshot viewer reads its source and alt text.
 
 Sprintathon is based on Aleph One; Forge Ahead on Weland by Gregory Smith. The Xfce forks retain their upstream credits. See the project repositories for licences and full credits.
+
+Categories are Apps, Games, and Utilities, with centered blue, purple, and orange headings. Kinetic Scroll screenshot: visageeee/kinetic-scroll, main/media/kinetic-scroll-ui.png. Sprintathon website: https://visageeee.github.io/alephone-sprintathon/. Break the Mold-online has no public repository link because its repository is private.
